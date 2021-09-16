@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAhfseFB0qkR4dt5wZiXlwt3J5grC9h37d76Ouw6JTJn71nry/ly2/OQt04Ubw4K5uqkcdtMifuhONwiRrTWUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Diogo\\projetoRenova\\projetoRenova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAYRA GARCIA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MAYRA GARCIA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MAYRA GARCIA\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\MAYRA GARCIA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\MAYRA GARCIA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\MAYRA GARCIA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
